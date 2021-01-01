@@ -1,5 +1,5 @@
 这是一本关于Clojure开发语言的学习笔记。采用
-[scicloj/notespace](https://github.com/scicloj/notespace)literate programming方
+[scicloj/notespace](https://github.com/scicloj/notespace) literate programming方
 式编写。
 
 - 基本数据结构
